@@ -1,0 +1,1 @@
+<script src="{{ asset('js/utils/login-button-animation/index.js') }}"></script>

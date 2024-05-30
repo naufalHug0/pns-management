@@ -1,0 +1,1 @@
+@vite(resource_path().'/css/app.css')

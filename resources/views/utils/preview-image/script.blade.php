@@ -1,0 +1,1 @@
+<script src="{{ asset('js/components/preview-image/index.js') }}"></script>

@@ -1,0 +1,1 @@
+<script src="{{ asset('js/utils/print/index.js') }}"></script>
